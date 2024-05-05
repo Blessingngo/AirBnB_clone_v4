@@ -1,4 +1,4 @@
-ddEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', function () {
   let displayObjects = {};
   let $h4 = $('div.amenities h4');
 
